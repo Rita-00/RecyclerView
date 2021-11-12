@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string-array name="animal">
+        <item>Кошка</item>
+        <item>Собака</item>
+        <item>Баран</item>
+        <item>Лошадь</item>
+        <item>Лягушка</item>
+        <item>Лев</item>
+        <item>Мышь</item>
+        <item>Корова</item>
+        <item>Свинья</item>
+        <item>Утка</item>
+        <item>Пчела</item>
+        <item>Петух</item>
+        <item>Филин</item>
+        <item>Курица</item>
+        <item>Воробей</item>
+    </string-array>
+
+    <string-array name="voice">
+        <item>Мяу</item>
+        <item>Гав</item>
+        <item>Бе-е</item>
+        <item>И-го-го</item>
+        <item>Ква</item>
+        <item>Р-р-р</item>
+        <item>Пи-пи</item>
+        <item>Муууу</item>
+        <item>Хрю</item>
+        <item>Кря</item>
+        <item>Бжжжж</item>
+        <item>Ку-ка-ре-ку</item>
+        <item>Ух-ух</item>
+        <item>Кудах-тах-тах</item>
+        <item>Чирик</item>
+    </string-array>
+</resources>
